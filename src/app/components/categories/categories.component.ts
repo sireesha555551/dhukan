@@ -79,7 +79,6 @@ export class CategoriesComponent implements OnInit {
   }
   //change size
   changeSize(id) {
-    debugger
     // console.log(id);
     // console.log(this.allProducts)
     this.prices.length=0;
